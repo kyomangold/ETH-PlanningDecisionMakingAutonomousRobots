@@ -7,9 +7,11 @@ To format your topics into a bullet list in markdown, you can organize them as f
 - Discrete planning
   - Shortest path problems
 - Planning under uncertainty
+- Dynamic programming
 - Game-theoretic planning
 - Geometric Representations
 - Steering methods
+- Optimal control
 - Configuration space
   - Collision checking
 - Potential and Navigation functions
