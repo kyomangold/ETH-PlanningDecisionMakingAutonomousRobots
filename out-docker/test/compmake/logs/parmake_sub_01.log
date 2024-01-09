@@ -1,0 +1,17 @@
+parmake_sub_01: started pmake_worker()
+parmake_sub_01: Listening for job
+parmake_sub_01: got job: (<function parmake_job2 at 0xffff8bdf1430>, ('test-0-_test_algo', <compmake.context.Context object at 0xffff6b58b8e0>, 'q-281472984435728-162', True, '/out-docker/test/compmake/parmake_job2_logs'))
+parmake_sub_01: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': [], 'deleted_jobs': set()}
+parmake_sub_01: putting result in result_queue..
+parmake_sub_01: (done)
+parmake_sub_01: ...done.
+parmake_sub_01: Listening for job
+parmake_sub_01: got job: (<function parmake_job2 at 0xffff8bdf1430>, ('test-0-_test_rep', <compmake.context.Context object at 0xffff6b25d580>, 'q-281472984435728-162', True, '/out-docker/test/compmake/parmake_job2_logs'))
+parmake_sub_01: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': [], 'deleted_jobs': set()}
+parmake_sub_01: putting result in result_queue..
+parmake_sub_01: (done)
+parmake_sub_01: ...done.
+parmake_sub_01: Listening for job
+parmake_sub_01: Received EXIT_TOKEN.
+parmake_sub_01: saving coverage
+parmake_sub_01: saved coverage

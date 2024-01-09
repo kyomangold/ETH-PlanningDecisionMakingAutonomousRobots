@@ -1,0 +1,3 @@
+parmake_sub_02: started pmake_worker()
+parmake_sub_02: Listening for job
+parmake_sub_02: Received EXIT_TOKEN.

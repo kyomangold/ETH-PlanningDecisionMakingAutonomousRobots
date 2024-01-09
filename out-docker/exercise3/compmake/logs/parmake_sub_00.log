@@ -1,0 +1,39 @@
+parmake_sub_00: started pmake_worker()
+parmake_sub_00: Listening for job
+parmake_sub_00: got job: (<function parmake_job2 at 0xffffa323b430>, ('_dynreports_create_index', <compmake.context.Context object at 0xffff81944dc0>, 'q-281472843645760-4631', True, '/out-docker/exercise3/compmake/parmake_job2_logs'))
+parmake_sub_00: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': {'exercise3-UniformCostSearch0-GreedyBestFirst1-Astar2-exercise3_report-write', 'exercise3-UniformCostSearch0-GreedyBestFirst1-Astar2-UniformCostSearch3-GreedyBestFirst4-exercise3_report-write', 'exercise3-UniformCostSearch0-GreedyBestFirst1-Astar2-UniformCostSearch3-GreedyBestFirst4-Astar5-UniformCostSearch6-GreedyBestFirst7-Astar8-exercise3_report-write', 'exercise3-UniformCostSearch0-GreedyBestFirst1-Astar2-UniformCostSearch3-GreedyBestFirst4-Astar5-UniformCostSearch6-exercise3_report-write', 'exercise3-UniformCostSearch0-GreedyBestFirst1-Astar2-UniformCostSearch3-exercise3_report-write', 'exercise3-UniformCostSearch0-exercise3_report-write', 'exercise3-UniformCostSearch0-GreedyBestFirst1-exercise3_report-write', 'exercise3-UniformCostSearch0-GreedyBestFirst1-Astar2-UniformCostSearch3-GreedyBestFirst4-Astar5-exercise3_report-write', 'exercise3-UniformCostSearch0-GreedyBestFirst1-Astar2-UniformCostSearch3-GreedyBestFirst4-Astar5-UniformCostSearch6-GreedyBestFirst7-exercise3_report-write'}, 'deleted_jobs': set()}
+parmake_sub_00: putting result in result_queue..
+parmake_sub_00: (done)
+parmake_sub_00: ...done.
+parmake_sub_00: Listening for job
+parmake_sub_00: got job: (<function parmake_job2 at 0xffffa323b430>, ('exercise3-UniformCostSearch0-GreedyBestFirst1-Astar2-UniformCostSearch3-GreedyBestFirst4-Astar5-UniformCostSearch6-GreedyBestFirst7-exercise3_report', <compmake.context.Context object at 0xffff829ead60>, 'q-281472843645760-4631', True, '/out-docker/exercise3/compmake/parmake_job2_logs'))
+parmake_sub_00: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': [], 'deleted_jobs': set()}
+parmake_sub_00: putting result in result_queue..
+parmake_sub_00: (done)
+parmake_sub_00: ...done.
+parmake_sub_00: Listening for job
+parmake_sub_00: got job: (<function parmake_job2 at 0xffffa323b430>, ('exercise3-UniformCostSearch0-GreedyBestFirst1-Astar2-UniformCostSearch3-GreedyBestFirst4-Astar5-UniformCostSearch6-GreedyBestFirst7-exercise3_report-write', <compmake.context.Context object at 0xffff80dc0640>, 'q-281472843645760-4631', True, '/out-docker/exercise3/compmake/parmake_job2_logs'))
+parmake_sub_00: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': [], 'deleted_jobs': set()}
+parmake_sub_00: putting result in result_queue..
+parmake_sub_00: (done)
+parmake_sub_00: ...done.
+parmake_sub_00: Listening for job
+parmake_sub_00: got job: (<function parmake_job2 at 0xffffa323b430>, ('exercise3-UniformCostSearch0-GreedyBestFirst1-Astar2-UniformCostSearch3-GreedyBestFirst4-algo_placeholder', <compmake.context.Context object at 0xffff828bc460>, 'q-281472843645760-4631', True, '/out-docker/exercise3/compmake/parmake_job2_logs'))
+parmake_sub_00: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': [], 'deleted_jobs': set()}
+parmake_sub_00: putting result in result_queue..
+parmake_sub_00: (done)
+parmake_sub_00: ...done.
+parmake_sub_00: Listening for job
+parmake_sub_00: got job: (<function parmake_job2 at 0xffffa323b430>, ('exercise3-UniformCostSearch0-GreedyBestFirst1-Astar2-UniformCostSearch3-GreedyBestFirst4-exercise3_report', <compmake.context.Context object at 0xffff80dc0640>, 'q-281472843645760-4631', True, '/out-docker/exercise3/compmake/parmake_job2_logs'))
+parmake_sub_00: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': [], 'deleted_jobs': set()}
+parmake_sub_00: putting result in result_queue..
+parmake_sub_00: (done)
+parmake_sub_00: ...done.
+parmake_sub_00: Listening for job
+parmake_sub_00: got job: (<function parmake_job2 at 0xffffa323b430>, ('exercise3-UniformCostSearch0-GreedyBestFirst1-Astar2-UniformCostSearch3-GreedyBestFirst4-exercise3_report-write', <compmake.context.Context object at 0xffff82940250>, 'q-281472843645760-4631', True, '/out-docker/exercise3/compmake/parmake_job2_logs'))
+parmake_sub_00: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': [], 'deleted_jobs': set()}
+parmake_sub_00: putting result in result_queue..
+parmake_sub_00: (done)
+parmake_sub_00: ...done.
+parmake_sub_00: Listening for job
+parmake_sub_00: Received EXIT_TOKEN.

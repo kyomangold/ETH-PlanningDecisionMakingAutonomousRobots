@@ -1,0 +1,240 @@
+add_targets()
+ -         targets: ['_dynreports_create_index', 'test-0-_test_rep']
+computed todo
+ -       not_ready: ['test-0-_test_rep']
+ -      ready_todo: ['_dynreports_create_index', 'test-0-_test_algo']
+ -    targets_done: []
+ - targets_todo_plus_deps: ['_dynreports_create_index', 'test-0-_test_algo', 'test-0-_test_rep']
+targets_todo_plus_deps: ['_dynreports_create_index', 'test-0-_test_algo', 'test-0-_test_rep']
+add_targets():adding to todo
+ -            todo: ['test-0-_test_rep']
+ -        todo_add: ['test-0-_test_rep']
+add_targets():adding to ready
+ -           ready: []
+ -       ready_add: ['_dynreports_create_index', 'test-0-_test_algo']
+after add_targets()
+ -            done: []
+ -      processing: []
+ -      ready_todo: ['_dynreports_create_index', 'test-0-_test_algo']
+ -            todo: ['test-0-_test_rep']
+0: -  all_targets: 3
+0: -      blocked: 0
+0: -      deleted: 0
+0: -         done: 0
+0: -       failed: 0
+0: -   processing: 0
+0: -        ready: 2
+0: -         todo: 1
+0: 
+0:  In more details:
+0: -  all_targets: 3 ['_dynreports_create_index', 'test-0-_test_algo', 'test-0-_test_rep']
+0: -      blocked: -
+0: -      deleted: -
+0: -         done: -
+0: -       failed: -
+0: -   processing: -
+0: -        ready: 2 ['_dynreports_create_index', 'test-0-_test_algo']
+0: -         todo: 1 ['test-0-_test_rep']
+chosen next_job
+ -          job_id: _dynreports_create_index
+start_job
+ -          job_id: _dynreports_create_index
+chosen next_job
+ -          job_id: test-0-_test_algo
+start_job
+ -          job_id: test-0-_test_algo
+check_job_finished
+ -          job_id: test-0-_test_algo
+check_job_finished
+ -          job_id: _dynreports_create_index
+check_job_finished
+ -          job_id: test-0-_test_algo
+job_succeeded
+ -          job_id: test-0-_test_algo
+considering parents
+ -    parents_todo: ['test-0-_test_rep']
+considering opportuniny
+ -          job_id: test-0-_test_algo
+ -     opportunity: test-0-_test_rep
+parent is ready
+ -     opportunity: test-0-_test_rep
+check_job_finished_handle_result
+ -    deleted_jobs: []
+ -          job_id: test-0-_test_algo
+ -        new_jobs: []
+ - user_object_deps: []
+1: -  all_targets: 3
+1: -      blocked: 0
+1: -      deleted: 0
+1: -         done: 1
+1: -       failed: 0
+1: -   processing: 1
+1: -        ready: 1
+1: -         todo: 0
+1: 
+1:  In more details:
+1: -  all_targets: 3 ['_dynreports_create_index', 'test-0-_test_algo', 'test-0-_test_rep']
+1: -      blocked: -
+1: -      deleted: -
+1: -         done: 1 ['test-0-_test_algo']
+1: -       failed: -
+1: -   processing: 1 ['_dynreports_create_index']
+1: -        ready: 1 ['test-0-_test_rep']
+1: -         todo: -
+chosen next_job
+ -          job_id: test-0-_test_rep
+start_job
+ -          job_id: test-0-_test_rep
+check_job_finished
+ -          job_id: test-0-_test_rep
+check_job_finished
+ -          job_id: _dynreports_create_index
+job_succeeded
+ -          job_id: _dynreports_create_index
+considering parents
+ -    parents_todo: []
+check_job_finished_handle_result
+ -    deleted_jobs: []
+ -          job_id: _dynreports_create_index
+ -        new_jobs: ['test-0-_test_rep-write']
+ - user_object_deps: []
+add_targets()
+ -         targets: ['test-0-_test_rep-write']
+computed todo
+ -       not_ready: []
+ -      ready_todo: ['test-0-_test_rep-write']
+ -    targets_done: ['test-0-_test_rep']
+ - targets_todo_plus_deps: ['test-0-_test_rep-write']
+targets_todo_plus_deps: ['test-0-_test_rep-write']
+add_targets():adding to todo
+ -            todo: []
+ -        todo_add: []
+add_targets():adding to ready
+ -           ready: []
+ -       ready_add: ['test-0-_test_rep-write']
+after add_targets()
+ -            done: ['_dynreports_create_index', 'test-0-_test_algo']
+ -      processing: ['test-0-_test_rep']
+ -      ready_todo: ['test-0-_test_rep-write']
+ -            todo: []
+2: -  all_targets: 4
+2: -      blocked: 0
+2: -      deleted: 0
+2: -         done: 2
+2: -       failed: 0
+2: -   processing: 1
+2: -        ready: 1
+2: -         todo: 0
+2: 
+2:  In more details:
+2: -  all_targets: 4 ['_dynreports_create_index', 'test-0-_test_algo', 'test-0-_test_rep', 'test-0-_test_rep-write']
+2: -      blocked: -
+2: -      deleted: -
+2: -         done: 2 ['_dynreports_create_index', 'test-0-_test_algo']
+2: -       failed: -
+2: -   processing: 1 ['test-0-_test_rep']
+2: -        ready: 1 ['test-0-_test_rep-write']
+2: -         todo: -
+chosen next_job
+ -          job_id: test-0-_test_rep-write
+start_job
+ -          job_id: test-0-_test_rep-write
+check_job_finished
+ -          job_id: test-0-_test_rep
+job_succeeded
+ -          job_id: test-0-_test_rep
+considering parents
+ -    parents_todo: []
+check_job_finished_handle_result
+ -    deleted_jobs: []
+ -          job_id: test-0-_test_rep
+ -        new_jobs: []
+ - user_object_deps: []
+3: -  all_targets: 4
+3: -      blocked: 0
+3: -      deleted: 0
+3: -         done: 3
+3: -       failed: 0
+3: -   processing: 1
+3: -        ready: 0
+3: -         todo: 0
+3: 
+3:  In more details:
+3: -  all_targets: 4 ['_dynreports_create_index', 'test-0-_test_algo', 'test-0-_test_rep', 'test-0-_test_rep-write']
+3: -      blocked: -
+3: -      deleted: -
+3: -         done: 3 ['_dynreports_create_index', 'test-0-_test_algo', 'test-0-_test_rep']
+3: -       failed: -
+3: -   processing: 1 ['test-0-_test_rep-write']
+3: -        ready: -
+3: -         todo: -
+check_job_finished
+ -          job_id: test-0-_test_rep-write
+check_job_finished
+ -          job_id: test-0-_test_rep-write
+check_job_finished
+ -          job_id: test-0-_test_rep-write
+check_job_finished
+ -          job_id: test-0-_test_rep-write
+check_job_finished
+ -          job_id: test-0-_test_rep-write
+check_job_finished
+ -          job_id: test-0-_test_rep-write
+check_job_finished
+ -          job_id: test-0-_test_rep-write
+check_job_finished
+ -          job_id: test-0-_test_rep-write
+check_job_finished
+ -          job_id: test-0-_test_rep-write
+check_job_finished
+ -          job_id: test-0-_test_rep-write
+4: -  all_targets: 4
+4: -      blocked: 0
+4: -      deleted: 0
+4: -         done: 3
+4: -       failed: 0
+4: -   processing: 1
+4: -        ready: 0
+4: -         todo: 0
+4: 
+4:  In more details:
+4: -  all_targets: 4 ['_dynreports_create_index', 'test-0-_test_algo', 'test-0-_test_rep', 'test-0-_test_rep-write']
+4: -      blocked: -
+4: -      deleted: -
+4: -         done: 3 ['_dynreports_create_index', 'test-0-_test_algo', 'test-0-_test_rep']
+4: -       failed: -
+4: -   processing: 1 ['test-0-_test_rep-write']
+4: -        ready: -
+4: -         todo: -
+check_job_finished
+ -          job_id: test-0-_test_rep-write
+check_job_finished
+ -          job_id: test-0-_test_rep-write
+job_succeeded
+ -          job_id: test-0-_test_rep-write
+considering parents
+ -    parents_todo: []
+check_job_finished_handle_result
+ -    deleted_jobs: []
+ -          job_id: test-0-_test_rep-write
+ -        new_jobs: []
+ - user_object_deps: []
+ending: -  all_targets: 4
+ending: -      blocked: 0
+ending: -      deleted: 0
+ending: -         done: 4
+ending: -       failed: 0
+ending: -   processing: 0
+ending: -        ready: 0
+ending: -         todo: 0
+ending: 
+ending:  In more details:
+ending: -  all_targets: 4 ['_dynreports_create_index', 'test-0-_test_algo', 'test-0-_test_rep', 'test-0-_test_rep-write']
+ending: -      blocked: -
+ending: -      deleted: -
+ending: -         done: 4 ['_dynreports_create_index', 'test-0-_test_algo', 'test-0-_test_rep', 'test-0-_test_rep-write']
+ending: -       failed: -
+ending: -   processing: -
+ending: -        ready: -
+ending: -         todo: -
+Coverage not detected

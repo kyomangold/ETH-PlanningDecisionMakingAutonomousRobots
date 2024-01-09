@@ -1,0 +1,559 @@
+parmake_sub_04: started pmake_worker()
+parmake_sub_04: Listening for job
+parmake_sub_04: got job: (<function parmake_job2 at 0xffff9c08f430>, ('exercise2-DepthFirst0-BreadthFirst1-IterativeDeepening2-DepthFirst3-BreadthFirst4-IterativeDeepening5-DepthFirst6-BreadthFirst7-IterativeDeepening8-algo_placeholder', <compmake.context.Context object at 0xffff7b8a17c0>, 'q-281472756790176-2876', True, '/out-docker/exercise2/compmake/parmake_job2_logs'))
+parmake_sub_04: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': [], 'deleted_jobs': set()}
+parmake_sub_04: putting result in result_queue..
+parmake_sub_04: (done)
+parmake_sub_04: ...done.
+parmake_sub_04: Listening for job
+parmake_sub_04: got job: (<function parmake_job2 at 0xffff9c08f430>, ('exercise2-DepthFirst0-BreadthFirst1-IterativeDeepening2-DepthFirst3-BreadthFirst4-IterativeDeepening5-DepthFirst6-BreadthFirst7-IterativeDeepening8-exercise2_report', <compmake.context.Context object at 0xffff7b944d00>, 'q-281472756790176-2876', True, '/out-docker/exercise2/compmake/parmake_job2_logs'))
+parmake_sub_04: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': [], 'deleted_jobs': set()}
+parmake_sub_04: putting result in result_queue..
+parmake_sub_04: (done)
+parmake_sub_04: ...done.
+parmake_sub_04: Listening for job
+parmake_sub_04: got job: (<function parmake_job2 at 0xffff9c08f430>, ('exercise2-DepthFirst0-BreadthFirst1-IterativeDeepening2-DepthFirst3-BreadthFirst4-IterativeDeepening5-DepthFirst6-BreadthFirst7-IterativeDeepening8-exercise2_report-write', <compmake.context.Context object at 0xffff7855a760>, 'q-281472756790176-2876', True, '/out-docker/exercise2/compmake/parmake_job2_logs'))
+parmake_sub_04: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': [], 'deleted_jobs': set()}
+parmake_sub_04: putting result in result_queue..
+parmake_sub_04: (done)
+parmake_sub_04: ...done.
+parmake_sub_04: Listening for job
+parmake_sub_04: got job: (<function parmake_job2 at 0xffff9c08f430>, ('exercise2-DepthFirst0-BreadthFirst1-IterativeDeepening2-DepthFirst3-BreadthFirst4-algo_placeholder', <compmake.context.Context object at 0xffff7852f5e0>, 'q-281472756790176-2876', True, '/out-docker/exercise2/compmake/parmake_job2_logs'))
+parmake_sub_04: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': [], 'deleted_jobs': set()}
+parmake_sub_04: putting result in result_queue..
+parmake_sub_04: (done)
+parmake_sub_04: ...done.
+parmake_sub_04: Listening for job
+parmake_sub_04: got job: (<function parmake_job2 at 0xffff9c08f430>, ('exercise2-DepthFirst0-BreadthFirst1-IterativeDeepening2-DepthFirst3-BreadthFirst4-exercise2_report', <compmake.context.Context object at 0xffff7855a760>, 'q-281472756790176-2876', True, '/out-docker/exercise2/compmake/parmake_job2_logs'))
+parmake_sub_04: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': [], 'deleted_jobs': set()}
+parmake_sub_04: putting result in result_queue..
+parmake_sub_04: (done)
+parmake_sub_04: ...done.
+parmake_sub_04: Listening for job
+parmake_sub_04: got job: (<function parmake_job2 at 0xffff9c08f430>, ('exercise2-DepthFirst0-BreadthFirst1-IterativeDeepening2-DepthFirst3-BreadthFirst4-exercise2_report-write', <compmake.context.Context object at 0xffff7b944ca0>, 'q-281472756790176-2876', True, '/out-docker/exercise2/compmake/parmake_job2_logs'))
+parmake_sub_04: result: {'user_object': None, 'user_object_deps': set(), 'new_jobs': [], 'deleted_jobs': set()}
+parmake_sub_04: putting result in result_queue..
+parmake_sub_04: (done)
+parmake_sub_04: ...done.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Could not receive anything.
+parmake_sub_04: Listening for job
+parmake_sub_04: Received EXIT_TOKEN.
